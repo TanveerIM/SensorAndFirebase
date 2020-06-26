@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625138439599",
+    "firebase_url": "https://sensorandfirebase-8687d.firebaseio.com",
+    "project_id": "sensorandfirebase-8687d",
+    "storage_bucket": "sensorandfirebase-8687d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625138439599:android:cc98fc4f8f7ec04c594b5a",
+        "android_client_info": {
+          "package_name": "com.tanveerm.sensorandfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625138439599-4adgj184s5hjocshmodf4mkrj0a2pfe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanveerm.sensorandfirebase",
+            "certificate_hash": "bd23898d0d565160b4475d4a3a695c6dae0fc3c5"
+          }
+        },
+        {
+          "client_id": "625138439599-1vu7eqhbosgg7fthp3n9pbhlqjq9okli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6QTIyi7EREhc2_NzNsDR8eWIoasirkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625138439599-1vu7eqhbosgg7fthp3n9pbhlqjq9okli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

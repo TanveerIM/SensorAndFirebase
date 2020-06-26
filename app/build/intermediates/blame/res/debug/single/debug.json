@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firebase_upload_photo.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\layout\\activity_firebase_upload_photo.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sensor.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\layout\\activity_sensor.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firebase_retrieve_photo.xml.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\layout\\activity_firebase_retrieve_photo.xml"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\ezeac_app\\SensorAndFirebase\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorAndFirebase</string>
+    <string name="sensor">Sensor</string>
+    <string name="firebase">Firebase</string>
+</resources>
